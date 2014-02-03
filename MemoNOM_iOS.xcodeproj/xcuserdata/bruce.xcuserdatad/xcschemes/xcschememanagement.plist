@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MemoNOM.xcscheme</key>
+		<key>MemoNOM_iOS.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>32AF890A187F4FC600A5BC50</key>
+		<key>321590DA1896587E0072DE98</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>32AF892B187F4FC700A5BC50</key>
+		<key>321590FB1896587E0072DE98</key>
 		<dict>
 			<key>primary</key>
 			<true/>

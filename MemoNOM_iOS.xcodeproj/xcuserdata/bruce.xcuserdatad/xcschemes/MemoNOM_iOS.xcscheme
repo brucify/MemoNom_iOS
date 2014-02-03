@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "32AF890A187F4FC600A5BC50"
-               BuildableName = "MemoNOM.app"
-               BlueprintName = "MemoNOM"
-               ReferencedContainer = "container:MemoNOM.xcodeproj">
+               BlueprintIdentifier = "321590DA1896587E0072DE98"
+               BuildableName = "MemoNOM_iOS.app"
+               BlueprintName = "MemoNOM_iOS"
+               ReferencedContainer = "container:MemoNOM_iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "32AF892B187F4FC700A5BC50"
-               BuildableName = "MemoNOMTests.xctest"
-               BlueprintName = "MemoNOMTests"
-               ReferencedContainer = "container:MemoNOM.xcodeproj">
+               BlueprintIdentifier = "321590FB1896587E0072DE98"
+               BuildableName = "MemoNOM_iOSTests.xctest"
+               BlueprintName = "MemoNOM_iOSTests"
+               ReferencedContainer = "container:MemoNOM_iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "32AF890A187F4FC600A5BC50"
-            BuildableName = "MemoNOM.app"
-            BlueprintName = "MemoNOM"
-            ReferencedContainer = "container:MemoNOM.xcodeproj">
+            BlueprintIdentifier = "321590DA1896587E0072DE98"
+            BuildableName = "MemoNOM_iOS.app"
+            BlueprintName = "MemoNOM_iOS"
+            ReferencedContainer = "container:MemoNOM_iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "32AF890A187F4FC600A5BC50"
-            BuildableName = "MemoNOM.app"
-            BlueprintName = "MemoNOM"
-            ReferencedContainer = "container:MemoNOM.xcodeproj">
+            BlueprintIdentifier = "321590DA1896587E0072DE98"
+            BuildableName = "MemoNOM_iOS.app"
+            BlueprintName = "MemoNOM_iOS"
+            ReferencedContainer = "container:MemoNOM_iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "32AF890A187F4FC600A5BC50"
-            BuildableName = "MemoNOM.app"
-            BlueprintName = "MemoNOM"
-            ReferencedContainer = "container:MemoNOM.xcodeproj">
+            BlueprintIdentifier = "321590DA1896587E0072DE98"
+            BuildableName = "MemoNOM_iOS.app"
+            BlueprintName = "MemoNOM_iOS"
+            ReferencedContainer = "container:MemoNOM_iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

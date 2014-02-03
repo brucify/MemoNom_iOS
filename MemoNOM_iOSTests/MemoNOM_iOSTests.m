@@ -1,18 +1,18 @@
 //
-//  MemoNOMTests.m
-//  MemoNOMTests
+//  MemoNOM_iOSTests.m
+//  MemoNOM_iOSTests
 //
-//  Created by Bruce Yinhe on 09/01/2014.
+//  Created by Bruce Yinhe on 27/01/2014.
 //  Copyright (c) 2014 MemoNOM. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface MemoNOMTests : XCTestCase
+@interface MemoNOM_iOSTests : XCTestCase
 
 @end
 
-@implementation MemoNOMTests
+@implementation MemoNOM_iOSTests
 
 - (void)setUp
 {
